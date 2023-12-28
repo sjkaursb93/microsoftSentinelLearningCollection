@@ -62,6 +62,9 @@ https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/a-look-at-differe
 A useful link to understand different use case
 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog
 
+## A new article, summarizing all the Sentinel 100 information:
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/microsoft-sentinel-soar-through-the-siem-begin-with-the-basics/ba-p/3990142
+
 ## Other GitHub Repos
 - Sentinel All in One
 [Azure-Sentinel/Tools/Sentinel-All-In-One at master · Azure/Azure-Sentinel (github.com)](https://github.com/Azure/Azure-Sentinel/tree/master/Tools/Sentinel-All-In-One)
