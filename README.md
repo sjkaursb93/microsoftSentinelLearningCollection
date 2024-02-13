@@ -62,6 +62,9 @@ https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/a-look-at-differe
 A useful link to understand different use case
 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog
 
+## Sentinel Training Lab (Available in Sentinel Content Hub)
+For hands on lab, this is a fantastic content hub solution you can utilize [Microsoft Sentinel Training Lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab).
+
 ## A new article, summarizing all the Sentinel 100 information:
 https://techcommunity.microsoft.com/t5/fasttrack-for-azure/microsoft-sentinel-soar-through-the-siem-begin-with-the-basics/ba-p/3990142
 
