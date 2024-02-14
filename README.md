@@ -55,7 +55,15 @@ Cost becomes an important factor with the increase of log ingestion, these links
 https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/a-look-at-different-options-for-storing-and-searching-sentinel/ba-p/3713698
 
 
-## Workbooks and PowerBI
+## Workbooks 
+- Workbooks help you to visualize and monitor data once your data source is connected to the Sentinel. You can use pre-defined templates or create your own workbooks. Some workbook templates also comes with "guide"  option to help you set up the workbooks.
+- Here are some of the predefined workbooks templates in the content hub which help you streamline your experience with Sentinel.
+    -  [Soc Process Framework](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/what-s-new-soc-process-framework-is-now-live-in-content-hub/ba-p/3590349). With deployment of this solution you can monitor progress with you SOC operatios and update the SOC CMMI assessment score.
+    -  [Zero trust TIC 3.0](https://techcommunity.microsoft.com/t5/public-sector-blog/announcing-the-azure-sentinel-zero-trust-tic3-0-workbook/ba-p/2313761) This solution provides a visulization of Zero Trust principles cross walked to the Trusted Internet Connections framework.
+    -  Microsoft Sentinel cost -  This workbook provides an estimated cost across the main billed items in Microsoft Sentinel: ingestion, retention and automation. It also provides insight about the possible impact of the Microsoft 365 E5 offer.
+    -  [Security Operations efficiency workbook](https://learn.microsoft.com/en-us/azure/sentinel/manage-soc-with-incident-metrics). This is the outof box workbook aimned to improve security operations efficiency by providing metrics such as: incident created over time, mean time to triage, mean time to closure etc.
+    -  [Other commonly used Microsoft Sentinel Wworkbooks](https://learn.microsoft.com/en-us/azure/sentinel/top-workbooks)
+### Workbooks with Power BI
  [Create a Power BI report from Microsoft Sentinel data | Microsoft Learn](https://learn.microsoft.com/en-us/azure/sentinel/powerbi)
 
 ## Sentinel Blogs
